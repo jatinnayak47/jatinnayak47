@@ -1,4 +1,3 @@
-Here’s a README draft for your GitHub profile that incorporates the details from your repositories:
 
 ---
 

@@ -16,7 +16,11 @@ Welcome to my GitHub profile! I'm an aspiring software engineer passionate about
   - Problem-Solving: Active on coding platforms to refine algorithms and logic
 
 ---
+---
+# Visitor Count
+![Visitor Count](https://hits.dwyl.com/jatinnayak47/jatinnayak47.svg)
 
+---
 ---
 
 

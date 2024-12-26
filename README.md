@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm an aspiring software engineer passionate about
 ---
 <div align="center">
   <h1>Visitor Count</h1>
-  <img src="https://hits.dwyl.com/{username}/{repository}.svg" alt="Visitor Count">
+  <img src="https://hits.dwyl.com/jatinnayak47/jatinnayak47.svg" alt="Visitor Count">
 </div>
 
 ---

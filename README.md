@@ -17,6 +17,14 @@ Welcome to my GitHub profile! I'm an aspiring software engineer passionate about
 
 ---
 
+---
+# Welcome to My Repository
+
+![Visitor Count](https://hits.dwyl.com/{username}/{repository}.svg)
+
+
+---
+
 ## 📂 My Projects
 Here’s a glimpse of what I’ve been working on:
 
